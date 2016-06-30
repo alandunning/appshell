@@ -1,2 +1,11 @@
-# appshell
-Website App Shell with material design look and feel. App shell includes a header, side drawer navigation (swipeable), main content area and a footer. A service worker is also in place to cache the App Shell for offline usage
+# App Shell Service Worker
+
+A material design App Shell and Service Worker for offline usage.
+
+## Features
+
+* HTML5 semantics
+* Service Worker
+* Material Design side drawer layout
+* Swipeable side drawer navigation menu
+* Google Universal Analytics snippet
